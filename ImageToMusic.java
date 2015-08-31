@@ -8,9 +8,7 @@ import javax.imageio.ImageIO;
 
 import javax.sound.sampled.LineUnavailableException;
 
-//This program iterates over the image's pixels, playing a sound according to the hex value.
 //The SoundUtils class isn't written by meowzie
-
 
 public class ImageToMusic {
 	public static void main(String[] args) throws IOException, LineUnavailableException{
